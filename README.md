@@ -1,4 +1,4 @@
-# Git_Github_Study
+# Git-Github-Study
 Repo for Learning 「깃&amp;깃허브 입문」(이지스퍼블리싱)
 ## 1. 깃 시작하기
 ### 리눅스 명령 연습하기
